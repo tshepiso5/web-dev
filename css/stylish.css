@@ -1,0 +1,61 @@
+#header-nav {
+  background-color: yellow;
+  border-radius: 0;
+  border: 0;
+
+}
+
+#chickeni{
+  background-color: grey;
+  width: 99%
+}
+
+#beef {
+  background-color: grey;
+  width: 99%;
+}
+
+#Kotas {
+  background-color: grey;
+  width: 99%
+}
+
+
+
+ul {
+  border: 10px;
+}
+
+.sectHead {
+ text-align: center;
+}
+
+.sectBody > p {
+  padding: 10px;
+}
+
+.lrgSection {
+  height: 1000px;
+  background-color: green;
+
+}
+
+.menu-item {
+
+  background-color: gold;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.menu-link {
+  text-decoration: none;
+}
+
+.navbar-brand a:hover, .navbar-brand {
+
+  text-decoration: none;
+}
+
+.navbar-brand > a {
+  text-decoration: none;
+}
